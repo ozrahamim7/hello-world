@@ -1,2 +1,2 @@
 # hello-world
-סטודנט מהנדס תוכנה
+Software Engineer Student
